@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\C#\HW\HW 10\bin\Debug\net6.0\DATA BASE home work.exe
+C:\Users\ASUS\Desktop\C#\HW\HW 10\bin\Debug\net6.0\DATA BASE home work.deps.json
+C:\Users\ASUS\Desktop\C#\HW\HW 10\bin\Debug\net6.0\DATA BASE home work.runtimeconfig.json
+C:\Users\ASUS\Desktop\C#\HW\HW 10\bin\Debug\net6.0\DATA BASE home work.dll
+C:\Users\ASUS\Desktop\C#\HW\HW 10\bin\Debug\net6.0\DATA BASE home work.pdb
+C:\Users\ASUS\Desktop\C#\HW\HW 10\obj\Debug\net6.0\DATA BASE home work.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\HW\HW 10\obj\Debug\net6.0\DATA BASE home work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C#\HW\HW 10\obj\Debug\net6.0\DATA BASE home work.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C#\HW\HW 10\obj\Debug\net6.0\DATA BASE home work.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C#\HW\HW 10\obj\Debug\net6.0\DATA BASE home work.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\HW\HW 10\obj\Debug\net6.0\DATA BASE home work.dll
+C:\Users\ASUS\Desktop\C#\HW\HW 10\obj\Debug\net6.0\refint\DATA BASE home work.dll
+C:\Users\ASUS\Desktop\C#\HW\HW 10\obj\Debug\net6.0\DATA BASE home work.pdb
+C:\Users\ASUS\Desktop\C#\HW\HW 10\obj\Debug\net6.0\DATA BASE home work.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\C#\HW\HW 10\obj\Debug\net6.0\ref\DATA BASE home work.dll
